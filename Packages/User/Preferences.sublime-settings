@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"ignored_packages":
+	[
+		"Markdown Preview",
+		"SideBarEnhancements",
+		"Goto-CSS-Declaration",
+		"Vintage"
+	],
+	"theme": "Spacegray.sublime-theme"
+}
